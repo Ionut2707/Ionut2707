@@ -17,6 +17,5 @@ I'm a passionate Full Stack Developer with a strong foundation in web and softwa
 
 I'm enthusiastic about solving complex problems, creating user-friendly applications, and continually learning to stay up-to-date with the ever-evolving world of software development.
 
-Feel free to connect with me on [GitHub](https://github.com/Ionut2707) to explore my projects and collaborate on exciting development opportunities.
 
 Let's build amazing things together!
