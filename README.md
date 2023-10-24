@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Ionut Adrian
-
 I'm a passionate Full Stack Developer with a strong foundation in web and software development. I recently completed a comprehensive one-year developer program, where I gained valuable experience in a variety of technologies and programming languages.
 
 ##
@@ -15,7 +14,18 @@ I'm a passionate Full Stack Developer with a strong foundation in web and softwa
 
 - **Spring Framework**: I'm familiar with the Spring Framework, which is essential for building Java-based enterprise applications.
 
+- **MongoDB**: I have experience working with MongoDB, a NoSQL database, for efficient and flexible data storage.
+
+- **PostgreSQL**: I'm knowledgeable about PostgreSQL, a powerful relational database system, for structured data storage.
+
+- **Supabase**: I've worked with Supabase, a dynamic open-source alternative to Firebase, for real-time application development.
+
+- **CSS**: I'm proficient in CSS for styling web pages, ensuring a visually appealing and responsive user experience.
+
+- **Tailwind CSS**: I use Tailwind CSS to streamline and enhance the styling of web applications, creating visually stunning interfaces.
+
 I'm enthusiastic about solving complex problems, creating user-friendly applications, and continually learning to stay up-to-date with the ever-evolving world of software development.
 
+Feel free to connect with me on [GitHub](https://github.com/Ionut2707) to explore my projects and collaborate on exciting development opportunities.
 
 Let's build amazing things together!
