@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ionut Adrian
 I'm a passionate Full Stack Developer with a strong foundation in web and software development. I recently completed a comprehensive one-year developer program, where I gained valuable experience in a variety of technologies and programming languages.
 
-##
+###
 **Key Skills:**
 
 - **JavaScript**: I'm proficient in JavaScript, which allows me to build interactive and dynamic web applications.
